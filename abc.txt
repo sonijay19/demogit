@@ -1,5 +1,9 @@
 Jo bhai/ben pela e file ja jya tyare updload karvanu 6e
 --> pachi aa badhu follow kar
 git init
-github per repsetry banav and e je step follow karvana ke e kar
+github per repo... banav and e je step follow karvana ke e kar
 
+for this repo...
+
+git remote add origin  {clone address lakhvanu (https://github.com/sonijay19/demogit.git)}
+git push -u origin master
